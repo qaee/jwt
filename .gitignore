@@ -1,0 +1,11 @@
+# compiled output
+/target
+/META-INF
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+
+# misc
+*.iml
